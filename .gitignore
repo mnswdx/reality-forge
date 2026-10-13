@@ -1,0 +1,14 @@
+# Keys & credentials files
+*credentials*.txt
+*.key
+*.pem
+*.env
+
+# System & editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+*~
+.vscode/
+.idea/
