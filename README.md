@@ -126,7 +126,7 @@ happ://routing/add/eyJHZW9zaXRlVXJsIjoiaHR0cHM6XC9cL2docHJveHkubmV0XC9odHRwczpcL
 
 ## 🧩 Единая экосистема инструментов
 
-Reality Forge идеально дополняется другими компонентами нашей экосистемы:
+Reality Forge идеально дополняется другими компонентами этой экосистемы:
 
 1. **[Reality Radar & Sentinel CLI](https://github.com/mnswdx/reality-radar-cli):**  
    Инструмент на ПК для сканирования и скоринга альтернативных доноров REALITY, контроля здоровья VPS, проверки пинга/джиттера и управления SSH-туннелем к панели.
